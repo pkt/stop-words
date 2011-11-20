@@ -1,0 +1,17 @@
+LINK TO PROJECT:
+http://code.google.com/p/stop-words/
+
+ABOUT PROJECT
+I needed to use some stop words for one school project, so I tried to collect some stop words for my language. 
+When I was browsing the Internet, I found some stop words for other languages. 
+So, I downloaded them, modified their structure and created this collection. I hope, it will be useful.
+
+LICENCE
+Free to use.
+
+CONTRIBUTING
+If somebody has some other good collection, please, let me know. I think, it will be helpful to create some collection of stop words for other languages.
+
+HISTORY
+20.11.2011 - date of creation of this project
+
