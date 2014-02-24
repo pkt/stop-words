@@ -1,0 +1,48 @@
+LINK TO PROJECT:
+http://code.google.com/p/stop-words/
+
+ABOUT PROJECT
+I needed to use some stop words for one school project, so I tried to collect some stop words for my language. 
+When I was browsing the Internet, I found some stop words for other languages. 
+So, I downloaded them, modified their structure and created this collection. I hope, it will be useful.
+
+LICENCE
+Free to use.
+
+CONTRIBUTING
+If somebody has some other good collection, please, let me know. I think, it will be helpful to create some collection of stop words for other languages.
+
+HISTORY
+20.11.2011 - date of creation of this project
+
+ACTUAL STATUS
+
+Project currently (21.11.2011) contains these collections:
+
+stop-words-arabic.txt
+stop-words-catalian.txt
+stop-words-czech1.txt
+stop-words-czech2.txt
+stop-words-dutch.txt
+stop-words-english1.txt
+stop-words-english2.txt
+stop-words-english3-google.txt
+stop-words-english4.txt
+stop-words-english5.txt
+stop-words-finnish.txt
+stop-words-french.txt
+stop-words-german.txt
+stop-words-greek.txt
+stop-words-hungarian.txt
+stop-words-italian.txt
+stop-words-norwegian.txt
+stop-words-polish1.txt
+stop-words-polish2.txt
+stop-words-portugese.txt
+stop-words-russian.txt
+stop-words-slovak.txt
+stop-words-slovak2.txt
+stop-words-spanish.txt
+stop-words-swedish.txt
+stop-words-turkish.txt
+
